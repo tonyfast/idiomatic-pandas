@@ -1,0 +1,10 @@
+toolz
+ibis-framework
+pandas
+requests
+importnb
+requests_cache
+matplotlib_venn
+seaborn
+feather-format
+altair
