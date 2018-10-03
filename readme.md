@@ -1,5 +1,5 @@
 
-# Idiomatic pandas
+# Idiomatic 🐼 pandas
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tonyfast/idiomatic-pandas/master)
 [NBViewer](http://nbviewer.jupyter.org/github/tonyfast/idiomatic-pandas/blob/master/readme.ipynb)
@@ -101,5 +101,5 @@ I have been using 🐼 for ~4 years now.  Below are some references that have in
 ```
 
     [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 5103 bytes to readme.md
+    [NbConvertApp] Writing 5549 bytes to readme.md
     
