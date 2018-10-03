@@ -9,9 +9,15 @@ class citizens in our notebooks. 🐼 is a [__NumFocus sponsored__](https://numf
 
 This repository was created for [Munmun DeChoudhury's](http://www.munmund.net/) [Social Computing course](http://www.munmund.net/CS6474_Fall2018.html) on October 3, 2018.
 
+> Please checkout the [`deathbeds` blog](http://deathbeds.github.io) for weekly posts about literate and scientific computing.
+
+> To interact with the local scientific computing community join [PyData Atlanta](https://www.meetup.com/PyData-Atlanta/) or [The Atlanta Jupyter User Group](https://www.meetup.com/Atlanta-Jupyter-User-Group/).
+
+> [A little news](https://gist.github.com/tonyfast/c7505b54166130a5836b0ece181bbb23) before we get going.
+
 ## Objective
 
-> 10. Get into a rut early: Do the same process the same way. Accumulate idioms. Standardize. The only difference(!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.
+> 10 Get into a rut early: Do the same process the same way. Accumulate idioms. Standardize. The only difference(!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.
 >> [Alan Perlis - _Perlisisms_](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 
 * We will treat public Github data as social data.  
@@ -95,5 +101,5 @@ I have been using 🐼 for ~4 years now.  Below are some references that have in
 ```
 
     [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 4212 bytes to readme.md
+    [NbConvertApp] Writing 5103 bytes to readme.md
     
