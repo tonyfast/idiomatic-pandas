@@ -8,3 +8,5 @@ importnb
 ibis-framework
 seaborn
 feather-format
+lxml
+IPython>=7.0
