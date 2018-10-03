@@ -4,10 +4,11 @@ channels:
 dependencies:
 - pandas
 - toolz
-- requests_cache
 - requests
 - nbconvert
-- matplotlib_venn
+- pip:
+    - requests_cache
+    - matplotlib_venn
 - importnb
 - ibis-framework
 - seaborn
