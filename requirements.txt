@@ -1,10 +1,10 @@
-toolz
-ibis-framework
 pandas
-requests
-importnb
+toolz
 requests_cache
+requests
+nbconvert
 matplotlib_venn
+importnb
+ibis-framework
 seaborn
 feather-format
-altair
