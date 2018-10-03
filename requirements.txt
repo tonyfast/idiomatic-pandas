@@ -10,3 +10,4 @@ seaborn
 feather-format
 lxml
 IPython>=7.0
+networkx
