@@ -75,6 +75,7 @@ The Python data science ecosystem is evolving rapidly.
 * [The Python 3 movement](https://python3statement.org/)
 * [fstrings](https://www.python.org/dev/peps/pep-0498/)
 * [Path](https://docs.python.org/3/library/pathlib.html)
+* [Type Annotations](https://docs.python.org/3/library/typing.html)
 * [walrus operator](https://speakerdeck.com/di_codes/pep-572-the-walrus-operator)
 * [async Python](https://docs.python.org/3/library/asyncio-task.html)
 * [IPython 7.0](https://blog.jupyter.org/ipython-7-0-async-repl-a35ce050f7f7)
@@ -101,5 +102,5 @@ I have been using 🐼 for ~4 years now.  Below are some references that have in
 ```
 
     [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 5549 bytes to readme.md
+    [NbConvertApp] Writing 5551 bytes to readme.md
     
