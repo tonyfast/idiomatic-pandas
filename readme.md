@@ -34,6 +34,34 @@ There are a lot of 🐼 examples on the web, but they _feel_ more like software 
 
 [![image](https://user-images.githubusercontent.com/4236275/46415900-524e8e80-c6f4-11e8-8183-6732beeecafa.png)](https://vita.had.co.nz/papers/tidy-data.pdf)
 
+
+```python
+    import this
+```
+
+    The Zen of Python, by Tim Peters
+    
+    Beautiful is better than ugly.
+    Explicit is better than implicit.
+    Simple is better than complex.
+    Complex is better than complicated.
+    Flat is better than nested.
+    Sparse is better than dense.
+    Readability counts.
+    Special cases aren't special enough to break the rules.
+    Although practicality beats purity.
+    Errors should never pass silently.
+    Unless explicitly silenced.
+    In the face of ambiguity, refuse the temptation to guess.
+    There should be one-- and preferably only one --obvious way to do it.
+    Although that way may not be obvious at first unless you're Dutch.
+    Now is better than never.
+    Although never is often better than *right* now.
+    If the implementation is hard to explain, it's a bad idea.
+    If the implementation is easy to explain, it may be a good idea.
+    Namespaces are one honking great idea -- let's do more of those!
+    
+
 ## Modern Idioms
 
 The Python data science ecosystem is evolving rapidly.
@@ -66,11 +94,6 @@ I have been using 🐼 for ~4 years now.  Below are some references that have in
         !jupyter nbconvert --to markdown readme.ipynb
 ```
 
-
-    if __name__ == '__main__':
-        !jupyter nbconvert --to markdown readme.ipynb
-
-
     [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 4532 bytes to readme.md
+    [NbConvertApp] Writing 4212 bytes to readme.md
     
